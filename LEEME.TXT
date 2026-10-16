@@ -1,4 +1,4 @@
-
+Manual de instalacion
 
 Versiones usadas:
 PHP: 8.5.8
